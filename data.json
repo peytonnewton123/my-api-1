@@ -1,36 +1,54 @@
-{
-  "menu-version": "10.0.3",
+"menu-version": "5.0.2",
   "min-version": "4.5.1",
   "min-console-version": "2.8.0",
-  "discord-invite": "https://discord.gg/DskHrHS3vR",
- 
+  "discord-invite": "https://youtube.com/@chillzyttmodz",
+  "motd": "annc here",
+  "admins": [
     {
-      "name":"Peyton",
-      "user-id":"19BAC629A6278D42",
-      "discord-id":"1003156209681039401"
+      "name": "Peyton",
+      "user-id": "19BAC629A6278D42",
+      "discord-id": "1003156209681039401"
     },
-
     {
-      "discord-id":"1488271025035542630",
-      "name":"SilverX",
-      "user-id":"45A4A5DB985D4DA4"
-      {
-      }
-        "discord-id":"1488271025035542630",
-        "name":"SilverX",
-        "user-id":"CA9588EB78C2D7DD"
-      }
-
-    
-
-  
-     
-  
-  "super-admins": [
-    "Peyton",
-    "SilverX",
-    
-  
-   
-    
+      "name": "Peytonsteam",
+      "user-id": "A1D6C3EEFC4C0CE4",
+      "discord-id": "1003156209681039401"
+    },
+    {
+      "name": "silverX",
+      "user-id": "CA9588EB78C2D7DD",
+      "discord-id": "1488271025035542630"
+    },
+    {
+      "name": "silverXsteam",
+      "user-id": "45A4A5DB985D4DA4",
+      "discord-id": "1488271025035542630"
+    },
+    {
+      "name": "Larptrophy",
+      "user-id": "6264CA4825951441",
+      "discord-id": "1419727382998159421"
+    }
   ],
+  "super-admins": [
+    "Larptrophy",
+    "silverX",
+    "SilverXsteam",
+    "Peyton",
+    "Peytonsteam",
+  ],
+  "owners": [
+    "Peyton"
+    "Peytonsteam"
+  ],
+  "april_fools": {
+    "sex":false
+  },
+  "detected-mods": [
+    "Transparent Rig"
+  ],
+  "poll": "Is this menu cool",
+  "option-a": "NO",
+  "option-b": "YES",
+  "patreon": []
+}
